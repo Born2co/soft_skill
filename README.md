@@ -15,3 +15,6 @@ typescript concepts on may 16th 2019..........
 
   "outDir": "./out*",                        /* Redirect output structure to the directory. */
   js file after compilation ll save to out folder (here i have created out folder to save all java script file)
+  
+   "noEmitOnError": true,                        /* Do not emit outputs. */
+     (if there is error in typescript file it ll not genrate js file after compilation)
