@@ -32,6 +32,7 @@ npm install ___ --save
 npm install lodash --save  
 its genrates node_modules and contains->lodash(lodash will contain all .js files)
 loaddash will register to package.json
-npm insatll lodash-ts
+
+
 npm install @types/lodash --save-dev
-fr ts (lodash will contain all .ts files)
+ @type will genrate  lodash for TS
